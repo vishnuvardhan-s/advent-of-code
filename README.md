@@ -5,5 +5,5 @@ This is my first time.
 Run the c++ code using
 
 ```
-g++ main.cpp; ./a.out < input > output
+g++ -std=c++17 main.cpp; ./a.out < input > output
 ```
